@@ -3,7 +3,7 @@
 
 - 👨‍💻 connect with me [www.linkedin.com/in/daniarmengol](www.linkedin.com/in/daniarmengol)
 
-- 💬 Ask me about **Html, Css, javascript, Angular, NodeJS, MySql**
+- 💬 Ask me about **Html, Css, javascript, Angular, NodeJS, MySql, MongoDB**
 
 - 📫 How to reach me **danielito486@gmail.com**
 
